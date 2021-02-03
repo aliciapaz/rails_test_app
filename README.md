@@ -1,24 +1,41 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# My First App on Ruby on Rails
 
-Things you may want to cover:
+This is a test application created in Ruby on Rails for learning purposes
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails v.6.1.1
+- Ruby v.3.0.0 
 
-* Configuration
+## Live Demo
 
-* Database creation
+[Live Demo Link](https://polar-cove-33049.herokuapp.com/cars)
 
-* Database initialization
+## Deployment 
 
-* How to run the test suite
+Deployed in Heroku
 
-* Services (job queues, cache servers, search engines, etc.)
+ ## Authors 
 
-* Deployment instructions
+👤 **Alicia Paz Rojas**
 
-* ...
+- GitHub: [@aliciapaz](https://github.com/aliciapaz)
+- Twitter: [@_alicia_paz](https://twitter.com/_alicia_paz)
+- LinkedIn: [Alicia Rojas](https://www.linkedin.com/in/alicia-rojas-71468418a/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/aliciapaz/rails_test_app/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
+- Heroku
